@@ -1,0 +1,2 @@
+# CoreTechBlogSample
+CoreTechブログ用のサンプルプロジェクト
