@@ -54,3 +54,32 @@ MonoBehaviour:
   m_DepthTextureFormat: 0
   m_AccurateGbufferNormals: 0
   m_IntermediateTextureMode: 1
+--- !u!114 &746042774882678481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eb62b53e7911194dbe97a172ac2c015, type: 3}
+  m_Name: SiriusFeature
+  m_EditorClassIdentifier: Sirius.Character.Runtime::Sirius.Character.Runtime.Scripts.Features.SiriusFeature
+  m_Active: 1
+  quality: 2
+--- !u!114 &2193053439872762567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f69b8f6a2b74d4bb5a2ddc50b6e2584, type: 3}
+  m_Name: SiriusCoreFeature
+  m_EditorClassIdentifier: Sirius.Core.Runtime::Sirius.Core.Runtime.Scripts.Feature.Passes.SiriusCoreFeature
+  m_Active: 1
+  developMode: 1
+  usingMakeMipsDirectly: 0
